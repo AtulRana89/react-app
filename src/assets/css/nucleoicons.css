@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'nucleoicons';
+    src: url('fonts/nucleoicons.eot');
+    src: url('fonts/nucleoicons.eot') format('embedded-opentype'),
+         url('fonts/nucleoicons.woff2') format('woff2'),
+         url('fonts/nucleoicons.woff') format('woff'),
+         url('fonts/nucleoicons.ttf') format('truetype'),
+         url('fonts/nucleoicons.svg#nucleoicons') format('svg');
+}
