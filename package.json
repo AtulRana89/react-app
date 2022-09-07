@@ -46,7 +46,7 @@
   "main": "index.js",
   "devDependencies": {},
   "engines": {
-    "node": "6.11.1"
+    "node": "v10.24.0"
   },
   "author": "",
   "license": "ISC"
